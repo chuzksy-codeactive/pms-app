@@ -1,4 +1,4 @@
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](hhttps://my-pms-app.herokuapp.com/) [![Build Status](https://travis-ci.org/chuzksy-codeactive/pms-app.svg?branch=master)](https://travis-ci.org/chuzksy-codeactive/pms-app) [![Coverage Status](https://coveralls.io/repos/github/chuzksy-codeactive/pms-app/badge.svg?branch=master)](https://coveralls.io/github/chuzksy-codeactive/pms-app?branch=master)
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](https://my-pms-app.herokuapp.com/) [![Build Status](https://travis-ci.org/chuzksy-codeactive/pms-app.svg?branch=master)](https://travis-ci.org/chuzksy-codeactive/pms-app) [![Coverage Status](https://coveralls.io/repos/github/chuzksy-codeactive/pms-app/badge.svg?branch=master)](https://coveralls.io/github/chuzksy-codeactive/pms-app?branch=master)
 
 
 ## Population Management System API
