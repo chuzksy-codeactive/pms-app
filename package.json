@@ -8,7 +8,7 @@
     "build": "babel server/ --out-dir dist --copy-files",
     "start": "NODE_ENV=production node dist/src/index.js",
     "test": "cross-env NODE_ENV=test jest --no-cache --forceExit",
-    "coveralls": "--coverage && cat coverage/lcov.info | coveralls"
+    "coveralls": "jest --coverage && cat coverage/lcov.info | coveralls"
   },
   "author": "chuzksy-codeactive",
   "keywords": [
